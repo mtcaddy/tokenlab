@@ -8,7 +8,8 @@ Who?
 * michael@tokenlab
 * norbert@tokenlab
 * frank@tokenlab
-* desire@tokenlab<br/>
+* desire@tokenlab
+* lillian@tokenlab<br/>
 
 _NOTE: If you can read this on GitHub, then we're still actively developing this
 document. Please check regularly for updates!_
@@ -81,11 +82,7 @@ In any case where a consumer is unsatisfied with a service response, a complaint
 
 In the proposed process to resolve a dispute that arises between service provider and consumer within an Africa Token Lab project, the mechanism shall be designed in a way that a consumer sends a `Complaint` to the service provider, and the later responds with a `Resolution`.
 
-
-
 <hr>
-
-
 # A bit of history
 
 # Blockchain: A Social Experiment and a Societal Transformation
@@ -156,10 +153,7 @@ In early 2018, SecureKey, initially established in Canada, cooperated with IBM t
 
 In February 2019, J.P. Morgan Chase & Co., the largest US commercial bank, announced a plan to issue its own digital currency, JPMCoin on its private chain platform Quorum. JPMCoin is pegged at a 1:1 ratio to the US dollar, and the company will use its strong capital reserve to ensure the stability of its token. JPMCoin is designed for inter-enterprise capital flow, and its early applications mainly involve cross-border payment, securities trading, and US dollar substitution for large enterprise customers. However, few institutional customers have participated in the test. Meanwhile, the internet giant Facebook is also quietly but surely moving into cryptocurrency via the introduction of its cryptocurrency (Libra) and wallet (Calibra).
 
-
 <hr>
-
-
 
 # About Africa Token Lab
 
@@ -254,7 +248,7 @@ Openness and transparency are fundamental to ensuring people's trust in their go
 
 The Africa Token Lab is committed to raising the bar on openness and transparency. All federal departments and agencies will do their part to ensure an open, honest organization that is accountable to consumers, lives up to the highest ethical standards, and advances stakeholders' priorities with a renewed sense of collaboration.
 
-We are delivering on that with the [Africa Token Lab portal](https://bit.ly/africatokenlab).
+We are delivering on that with the [Africa Token Lab portal](https://tokenlab.africa).
 
 
 ## Business Need
